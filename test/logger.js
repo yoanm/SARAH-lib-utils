@@ -16,7 +16,7 @@ var loggerChannel = 'myChannel';
 var message = 'myMessage';
 var expectedMessage = '[' + loggerChannel + '] ' + message;
 
-describe('sarah.lib.utils/logger', function() {
+describe('sarah-lib-utils/logger', function() {
     beforeEach(function() {
         logger = new SarahLogger(loggerChannel);
     });

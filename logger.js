@@ -5,7 +5,7 @@
  *  in front of the message string
  *
  * @example <caption>Instantiation</caption>
- * const SarahLogger = require('sarah.lib.utils/logger');
+ * const SarahLogger = require('sarah-lib-utils/logger');
  * var logger = new SarahLogger('channel');
  *
  * @example <caption>Helper</caption>

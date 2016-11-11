@@ -2,7 +2,7 @@
 const expect = require('chai').expect;
 var version = require('../version');
 
-describe('sarah.lib.utils/version', function() {
+describe('sarah-lib-utils/version', function() {
     it('hold two sarah version constant', function() {
         expect(version).to.have.property('v3');
         expect(version).to.have.property('v4');

@@ -5,7 +5,7 @@
  *
  * @example <caption>S.A.R.A.H. integration</caption>
  * // your_plugin_name.js
- * const sarahLibUtils = require('sarah.lib.utils');
+ * const sarahLibUtils = require('sarah-lib-utils');
  * const SarahActionContext = sarahLibUtils.SarahActionContext;
  * const SarahActionHelper = sarahLibUtils.SarahActionHelper;
  * const version = sarahLibUtils.version;

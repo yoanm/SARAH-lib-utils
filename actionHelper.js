@@ -6,7 +6,7 @@
  * @requires sarahVersion
  *
  * @example <caption>Instantiation</caption>
- * const SarahActionHelper = require('sarah.lib.utils/actionHelper');
+ * const SarahActionHelper = require('sarah-lib-utils/actionHelper');
  * var helper = new SarahActionHelper(<SarahActionContext> actionContext);
  *
  * @example <caption>Helper</caption>

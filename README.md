@@ -7,7 +7,7 @@ Library with helpful class for [S.A.R.A.H.](http://encausse.net/s-a-r-a-h)
 
 ## Installation
 ```bash
-> npm install sarah.lib.utils --save
+> npm install sarah-lib-utils --save
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ Library with helpful class for [S.A.R.A.H.](http://encausse.net/s-a-r-a-h)
 ```javascript
 /** your_plugin_name.js */
 
-const sarahLibUtils = require('sarah.lib.utils');
+const sarahLibUtils = require('sarah-lib-utils');
 const SarahActionContext = sarahLibUtils.SarahActionContext;
 const SarahActionHelper = sarahLibUtils.SarahActionHelper;
 const version = sarahLibUtils.version;
@@ -36,7 +36,7 @@ exports.action = function (data, callback, config, SARAH) {
 Provide helpful methods to deal with Sarah version
 ```javascript
 // Load
-const version = require('sarah.lib.utils/version');
+const version = require('sarah-lib-utils/version');
 // Helper
 var isV3 = version.isV3();
 var isV4 = version.isV4();
@@ -53,7 +53,7 @@ if (version.v4 == sarahVersionNumber) {
 SarahLogger will automatically add the channel in front of the message string
 ```javascript
 // Load
-const SarahLogger = require('sarah.lib.utils/logger');
+const SarahLogger = require('sarah-lib-utils/logger');
 // Instantiate
 var logger = new SarahLogger('channel');
 // Helper
@@ -69,7 +69,7 @@ logger.error(message); // Will output 'error: [channel] myMessage'
 SarahActionContext is a simple wrapper for action data
 ```javascript
 // Load
-const SarahActionContext = require('sarah.lib.utils/actionContext');
+const SarahActionContext = require('sarah-lib-utils/actionContext');
 // Instantiate
 var context = new SarahActionContext(data, callback);
 // Setter
@@ -86,7 +86,7 @@ SarahActionHelper provide helpful methods regarding action for module which want
 #### Basics
 ```javascript
 // Load
-const SarahActionHelper = require('sarah.lib.utils/actionHelper');
+const SarahActionHelper = require('sarah-lib-utils/actionHelper');
 // Instantiate
 var helper = new SarahActionHelper(<SarahActionContext> actionContext);
 // helper

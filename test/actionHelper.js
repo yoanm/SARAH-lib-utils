@@ -12,7 +12,7 @@ var version;
 var context;
 var helper;
 
-describe('sarah.lib.utils/actionHelper', function() {
+describe('sarah-lib-utils/actionHelper', function() {
     beforeEach(function() {
         context = sinon.createStubInstance(SarahActionContext);
         version = require('../version');
