@@ -4,7 +4,7 @@
  * @description Provide helpful methods to deal with Sarah version
  *
  * @example
- * const version = require('sarah.lib.utils/version');
+ * const version = require('sarah-lib-utils/version');
  *
  * @example <caption>Helper</caption>
  *  version.isV3();

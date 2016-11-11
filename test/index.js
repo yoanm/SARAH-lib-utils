@@ -14,7 +14,7 @@ var libUtils = proxyquire(
         './version': sarahVersionMock
     }
 );
-describe('sarah.lib.utils', function() {
+describe('sarah-lib-utils', function() {
     it('hold class definition', function() {
         expect(libUtils).to.have.property('SarahActionContext');
         expect(libUtils.SarahActionContext).to.deep.equal(sarahActionContextMock);

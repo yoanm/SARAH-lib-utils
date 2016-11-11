@@ -1,5 +1,5 @@
 {
-  "name": "sarah.lib.utils",
+  "name": "sarah-lib-utils",
   "version": "1.0.0",
   "description": "S.A.R.A.H. Library with helpful class",
   "main": "index.js",

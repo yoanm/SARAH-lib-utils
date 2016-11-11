@@ -4,7 +4,7 @@
  * @description SarahActionContext is a simple wrapper for action data
  *
  * @example <caption>Instantiation</caption>
- * const SarahActionContext = require('sarah.lib.utils/actionContext');
+ * const SarahActionContext = require('sarah-lib-utils/actionContext');
  * var context = new SarahActionContext(data, callback);
  *
  * @example <caption>Setter</caption>
