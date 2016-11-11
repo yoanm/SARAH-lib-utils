@@ -1,7 +1,8 @@
 S.A.R.A.H. utils lib
 ====================
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/yoanm/parameterBagJs/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/yoanm/parameterBagJs/?branch=master) [![Code Coverage](https://scrutinizer-ci.com/g/yoanm/parameterBagJs/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/yoanm/parameterBagJs/?branch=master) [![Build Status](https://scrutinizer-ci.com/g/yoanm/parameterBagJs/badges/build.png?b=master)](https://scrutinizer-ci.com/g/yoanm/parameterBagJs/build-status/master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/yoanm/SARAH-lib-utils/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/yoanm/SARAH-lib-utils/?branch=master) [![Code Coverage](https://scrutinizer-ci.com/g/yoanm/SARAH-lib-utils/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/yoanm/SARAH-lib-utils/?branch=master) [![Build Status](https://scrutinizer-ci.com/g/yoanm/SARAH-lib-utils/badges/build.png?b=master)](https://scrutinizer-ci.com/g/yoanm/SARAH-lib-utils/build-status/master)
+
 Library with helpful class for [S.A.R.A.H.](http://encausse.net/s-a-r-a-h)
 
 ## Installation
