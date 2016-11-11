@@ -3,7 +3,7 @@ const expect = require('chai').expect;
 const SarahActionContext = require('../actionContext');
 
 describe('sarah.lib.utils/actionContext', function() {
-    it('hold context data', function() {
+    it('hold context data and callback', function() {
         var data = {myData: 'myValue'};
         var callback = function myCallback() {};
         var context = new SarahActionContext(data, callback);
