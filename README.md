@@ -146,3 +146,6 @@ Then open the `coverage/index.js.html` file in a browser
 ## Release History
 
 * `1.0.0` : Initial release
+* `1.1.0` : Readme badges
+* `1.1.1` : Fix npm version
+
