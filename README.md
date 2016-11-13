@@ -3,6 +3,11 @@ S.A.R.A.H. utils lib
 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/yoanm/SARAH-lib-utils/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/yoanm/SARAH-lib-utils/?branch=master) [![Code Coverage](https://scrutinizer-ci.com/g/yoanm/SARAH-lib-utils/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/yoanm/SARAH-lib-utils/?branch=master) [![Build Status](https://scrutinizer-ci.com/g/yoanm/SARAH-lib-utils/badges/build.png?b=master)](https://scrutinizer-ci.com/g/yoanm/SARAH-lib-utils/build-status/master)
 
+[![npm](https://img.shields.io/npm/v/sarah-lib-utils.svg)](https://www.npmjs.com/package/SARAH-lib-utils) [![license](https://img.shields.io/npm/l/sarah-lib-utils.svg)](https://www.npmjs.com/package/SARAH-lib-utils)
+
+[![npm stat](https://nodei.co/npm/sarah-lib-utils.png)](https://www.npmjs.com/package/SARAH-lib-utils)
+
+
 Library with helpful class for [S.A.R.A.H.](http://encausse.net/s-a-r-a-h)
 
 ## Installation
